@@ -1,0 +1,46 @@
+h1{
+    color: brown;
+    text-align: center;
+    font-size: 40px;
+
+}
+img{
+    height: 300px;
+    width: 300px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px gray;
+    margin: 20px;
+}
+button{
+background-color: blue;
+color: white;
+border-radius: 15px;
+padding: 5px 10px 5px 10px;
+border: 2px;
+border-color: red;
+border-style:groove;
+
+}
+button:hover {
+color: aqua;
+}
+body {
+    background-color: lightgray; 
+}
+.container{
+        display: flex;
+}
+
+.container > div {
+        background-color: blanchedalmond;
+        width: fit-content;
+        padding: 50px 30px 50px 30px;
+        margin: 5px;
+        border-radius: 10px;
+        box-shadow: 5px 5px 15px purple;
+
+    }
+    
+    .foto{
+        margin:20px
+    }

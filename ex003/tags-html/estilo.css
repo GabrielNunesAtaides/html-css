@@ -1,0 +1,38 @@
+body{
+    background: #0f1014; ;
+h1 span{
+    color:aqua
+}
+h2 span{
+    color:blueviolet
+}
+h3 span{
+    color:pink
+}
+h1{
+    font-size: 40px;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;letter-spacing: 5px;
+}
+
+h2{
+    font-size: 30px;
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 3px;
+}
+h3{
+    font-size: 20px;
+    color:orangered;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 2px;
+}
+p{
+    font-size: 25px;
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif
+    ;letter-spacing: 1px;
+}
+
+}
+
